@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550" width="900" height="550">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B2E24" />
+      <stop offset="50%" stop-color="#12423A" />
+      <stop offset="100%" stop-color="#0E9F6E" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#7FD9B0" stroke-width="1" opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="550" rx="24" fill="url(#grad)"/>
+  <rect width="900" height="550" rx="24" fill="url(#grid)"/>
+  
+  <g transform="translate(450, 235)">
+    <!-- Stylizowana ikona -->
+    <circle cx="0" cy="0" r="56" fill="#0B2E24" opacity="0.7" stroke="#FF7A1A" stroke-width="3"/>
+    <path d="M-28 15 L-15 -10 L15 -10 L28 15 Z" fill="#7FD9B0" opacity="0.9"/>
+    <circle cx="-18" cy="18" r="8" fill="#FF7A1A"/>
+    <circle cx="18" cy="18" r="8" fill="#FF7A1A"/>
+    <circle cx="0" cy="-22" r="5" fill="#F7F4EC"/>
+  </g>
+
+  <!-- Etykieta -->
+  <rect x="270" y="320" width="360" height="36" rx="18" fill="#0B2E24" opacity="0.8" stroke="#0E9F6E" stroke-width="1.5"/>
+  <text x="450" y="343" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#7FD9B0" letter-spacing="1.5">
+    POMOC DROGOWA 24H • WROCŁAW
+  </text>
+
+  <!-- Tytuł -->
+  <text x="450" y="395" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F7F4EC">
+    DYSPOZYTORNIA CAŁODOBOWA 24/7
+  </text>
+  <text x="450" y="425" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="15" fill="#F7F4EC" opacity="0.8">
+    Zadzwoń o każdej porze dnia i nocy
+  </text>
+</svg>
