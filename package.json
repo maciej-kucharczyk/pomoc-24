@@ -1,0 +1,12 @@
+{
+  "name": "pomoc-24",
+  "version": "1.0.0",
+  "description": "Strona Pomoc Drogowa 24/7 Wrocław (GitHub Pages)",
+  "scripts": {
+    "start": "serve . -l 3000",
+    "dev": "serve . -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
