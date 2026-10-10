@@ -7,7 +7,7 @@
 nazwa_firmy: Pomoc Drogowa 24/7 Wrocław
 telefon: 577 408 770
 email: kontakt@pomocdrogowa24.wroclaw.pl
-adres: ul. Krakowska 100, 50-427 Wrocław
+adres: ul. Beaty Artemskiej, 52-234 Wrocław
 miasto: Wrocław i okolice, autostrada A4 / AOW
 godziny: 24h / 7 dni w tygodniu
 nip: 0000000000
