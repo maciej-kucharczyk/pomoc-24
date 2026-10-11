@@ -14,7 +14,7 @@ Oferujemy kompleksowe wsparcie kierowców w każdej sytuacji awaryjnej:
 * **Wymiana koła na drodze lub holowanie do wulkanizacji** — szybka i bezpieczna wymiana przebitej opony w trudnych warunkach (np. na obwodnicy AOW,A4,S5,S8).
 * **Dowóz paliwa i wypompowanie źle zatankowanego paliwa** — dowozimy benzynę i olej napędowy bezpośrednio na miejsce postoju.
 * **Wyciąganie aut z rowu, błota i śniegu** — dysponujemy mocnymi wyciągarkami hydraulicznymi.
-* **Drobne naprawy na miejscu zdarzenia** — bezpieczniki, paski, diagnostyka komputerowa, odpalanie auta z boostera.
+* **Drobne naprawy na miejscu zdarzenia** — bezpieczniki, odpalanie auta z boostera.
 
 ---
 
