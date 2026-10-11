@@ -2,7 +2,7 @@
 
 ![Autolaweta Wrocław](laweta.jpg)
 
-Szukasz taniej, a zarazem pewnej lawety we Wrocławiu? Firma **{{nazwa_firmy}}** zapewnia ekspresowe usługi holowania dla klientów indywidualnych oraz firm. Posiadamy nowoczesną flotę pojazdów przystosowanych do przewozu aut osobowych, vanów, busów, maszyn budowlanych i motocykli.
+Szukasz taniej, a zarazem pewnej lawety we Wrocławiu? Zapewniamy ekspresowe usługi holowania dla klientów indywidualnych oraz firm. Posiadamy flotę pojazdów przystosowanych do przewozu aut osobowych, vanów, busów, maszyn budowlanych i motocykli. Kabina przystosowana do przewozu do 5 osób wraz z uszkodzonym pojazdem
 
 > **Szybki kontakt z kierowcą lawety:**  
 > 📞 **[{{telefon}}](tel:{{telefon_link}})**  
@@ -19,7 +19,7 @@ Oferujemy transport pojazdów w każdych warunkach:
 3. **Transport aut z uszkodzonym układem jezdnym** — posiadamy profesjonalne rolki i wózki pod urwane lub zablokowane koła.
 4. **Transport aut ze skrzynią automatyczną** — dbamy o procedury bezpieczeństwa zalecane przez producentów pojazdów z automatem.
 5. **Przewóz pojazdów nowo zakupionych i bez ważnego OC/PT** — transport z komisów, portów, aukcji i zza granicy.
-6. **Transport maszyn i wózków widłowych** — platformy o ładowności do 3.5t.
+6. **Transport maszyn** — platformy o ładowności do 3.5t.
 
 ---
 
@@ -29,8 +29,8 @@ Oferujemy transport pojazdów w każdych warunkach:
 
 | Rodzaj usługi | Zakres | Cena od |
 |---|---|---|
-| **Holowanie na terenie Wrocławia** | Samochód osobowy | od 150 zł |
-| **Holowanie SUV / Van / Bus** | Teren Wrocławia | od 200 zł |
+| **Holowanie na terenie Wrocławia** | Samochód osobowy | od 250 zł |
+| **Holowanie SUV / Van / Bus** | Teren Wrocławia | od 300 zł |
 | **Wyciąganie z rowu / zaspy** | Zależnie od stopnia trudności | od 150 zł |
 | **Stawka za km poza Wrocławiem** | Trasy krajowe / autostrada A4 | od 2,50 zł / km |
 | **Zabezpieczenie urwanego koła (wózek)** | Dodatkowe akcesorium | od 50 zł |
