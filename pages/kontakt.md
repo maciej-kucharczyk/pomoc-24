@@ -30,6 +30,7 @@ Jeśli stoisz na drodze i potrzebujesz szybkiego przyjazdu:
 ## FAQ - Pytania i Odpowiedzi
 
 *Ile kosztuje pomoc drogowa i holowanie auta lawetą we Wrocławiu i na Dolnym Śląsku?
+
 Odp: Cena usługi zależy głównie od pokonanej trasy (stawka za kilometr), rodzaju pojazdu oraz charakteru interwencji (np. holowanie po kolizji na autostradzie A4 lub drodze S8). Do każdego zgłoszenia podchodzimy indywidualnie – zadzwoń do nas, a przed wyjazdem podamy Ci dokładny i uczciwy koszt.
 
 *Jak szybko laweta dotrze na miejsce awarii we Wrocławiu i okolicach?
