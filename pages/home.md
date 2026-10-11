@@ -1,4 +1,4 @@
-Potrzebujesz natychmiastowej pomocy na drodze we Wrocławiu lub na autostradzie A4? Jesteśmy do Twojej dyspozycji **24 godziny na dobę, 7 dni w tygodniu**. Średni czas dojazdu naszego kierowcy to zaledwie **{{czas_dojazdu}}**.
+Potrzebujesz natychmiastowej pomocy na drodze we Wrocławiu lub na autostradzie A4,S8,S8,S5? Jesteśmy do Twojej dyspozycji **24 godziny na dobę, 7 dni w tygodniu**. Średni czas dojazdu naszego kierowcy to zaledwie **{{czas_dojazdu}}**.
 
 > **Awaria lub kolizja? Zadzwoń natychmiast:**  
 > 📞 **[{{telefon}}](tel:{{telefon_link}})** — dyżurny dyspozytor odbiera całą dobę!
@@ -11,10 +11,10 @@ Oferujemy kompleksowe wsparcie kierowców w każdej sytuacji awaryjnej:
 
 * **Autolaweta i holowanie pojazdów** — auta osobowe, dostawcze, busy, motocykle, a także pojazdy zabytkowe i powypadkowe.
 * **Awaryjne uruchamianie silnika (booster 12V / 24V)** — gdy rozładuje się akumulator pod domem, pracą lub na trasie.
-* **Wymiana koła na drodze** — szybka i bezpieczna wymiana przebitej opony w trudnych warunkach (np. na obwodnicy AOW).
+* **Wymiana koła na drodze lub holowanie do wulkanizacji** — szybka i bezpieczna wymiana przebitej opony w trudnych warunkach (np. na obwodnicy AOW,A4,S5,S8).
 * **Dowóz paliwa i wypompowanie źle zatankowanego paliwa** — dowozimy benzynę i olej napędowy bezpośrednio na miejsce postoju.
 * **Wyciąganie aut z rowu, błota i śniegu** — dysponujemy mocnymi wyciągarkami hydraulicznymi.
-* **Drobne naprawy na miejscu zdarzenia** — bezpieczniki, paski, diagnostyka komputerowa.
+* **Drobne naprawy na miejscu zdarzenia** — bezpieczniki, paski, diagnostyka komputerowa, odpalanie auta z boostera.
 
 ---
 
